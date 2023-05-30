@@ -1,0 +1,4 @@
+https://dh5.cntv.myalicdn.com/asp/h5e/hls/main/0303000a/3/default/baa197e3ad604748af7a95eb7e9dfcab/main.m3u8?maxbr=2048
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/baa197e3ad604748af7a95eb7e9dfcab/main.m3u8?maxbr=2048
+https://hls.cntv.kcdnvip.com/asp/hls/main/0303000a/3/default/11962e7ff02b4aa5ab19599459e7b9f1/main.m3u8
+                            /asp/hls/1200/0303000a/3/default/baa197e3ad604748af7a95eb7e9dfcab/1200.m3u8
